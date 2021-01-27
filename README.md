@@ -1,22 +1,21 @@
-# Action-jd-scripts
+MIT License
 
-- [jd_scripts](https://github.com/lxk0301/jd_scripts) 的action模板
-- [Action 参数说明](https://github.com/lxk0301/jd_scripts/blob/master/githubAction.md)
-- [Action cron配置参考](https://github.com/lxk0301/jd_scripts/blob/master/docker/crontab_list.sh)
+Copyright (c) 2020 zdrka
 
-## 使用说明
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-1. 点击模板按钮 [Use this template](https://github.com/zdrka/Action-jd-scripts/generate).
-2. 配置相关action环境变量.
-3. 点击stars运行所有action脚本 或者 手动管理相关action 或者等它自动触发.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-## FAQ
-
-### 问题：[issues-32](https://github.com/lxk0301/jd_scripts/issues/32)
-
-### 解决方案如下:
-
-1. 重新建立一个[jd_scripts](https://github.com/lxk0301/jd_scripts)的[镜像库](https://github.com/zdrka/jd_scripts_mirror)
-2. action直接拉取镜像库的代码.
-
-## 最后......
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
